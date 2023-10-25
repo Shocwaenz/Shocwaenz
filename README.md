@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Shocwaenz
+- 👀 I’m interested in Graphic Design and frontend coding
+- 🌱 I’m currently learning Coding like C#, CSS, Python, JavaScript
+- 📫 How to reach me : discord: shocwaenz
